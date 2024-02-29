@@ -1,0 +1,17 @@
+{
+  "block.lrbr.object_7": "记忆罐",
+
+  "block.lrbr.object_7.blue": "蓝色记忆罐",
+  "block.lrbr.object_7.cyan": "青色记忆罐",
+
+  "tooltip.lrbr.object7.empty": "空",
+  "tooltip.lrbr.object7.full": "包含着某段记忆...",
+
+
+  "lrbr.mem.test.l1": "测试行1aaaaaaaaa",
+  "lrbr.mem.test.l2": "测试行2bbbbbbbbbb",
+  "lrbr.mem.test.l3": "测试行3ccccccc",
+  "lrbr.mem.test.l4": "测试行4aaaaaaaaa",
+  "lrbr.mem.test.l5": "测试行5bbbbbbbbbb",
+  "lrbr.mem.test.l6": "测试行6ccccccc"
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.xjqsh.lrbackroom.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "LesRaisinsBackRoom.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
